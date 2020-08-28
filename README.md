@@ -1,2 +1,1 @@
-# Repository-n01
-dopiero zaczynam ta zabawe
+# Bachelors thesis code
