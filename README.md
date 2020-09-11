@@ -1,1 +1,1 @@
-# Bachelors thesis code
+# Bachelors thesis code (Coronavirus data was used)
